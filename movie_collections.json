@@ -1,0 +1,105 @@
+{
+    "MovieReleases": [
+      {
+        "PutRequest": {
+          "Item": {
+            "Title": {"S": "Spider-Man: No Way Home"},
+            "ReleaseDate": {"S": "2021-12-17"},
+            "Rating": {"N": "8.5"},
+            "Genre": {"S": "Action"}
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "Title": {"S": "The Batman"},
+            "ReleaseDate": {"S": "2022-03-04"},
+            "Rating": {"N": "8.3"},
+            "Genre": {"S": "Action"}
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "Title": {"S": "Dune"},
+            "ReleaseDate": {"S": "2021-10-22"},
+            "Rating": {"N": "8.2"},
+            "Genre": {"S": "Sci-Fi"}
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "Title": {"S": "No Time to Die"},
+            "ReleaseDate": {"S": "2021-10-08"},
+            "Rating": {"N": "7.4"},
+            "Genre": {"S": "Action"}
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "Title": {"S": "Eternals"},
+            "ReleaseDate": {"S": "2021-11-05"},
+            "Rating": {"N": "6.9"},
+            "Genre": {"S": "Action"}
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "Title": {"S": "The Matrix Resurrections"},
+            "ReleaseDate": {"S": "2021-12-22"},
+            "Rating": {"N": "6.5"},
+            "Genre": {"S": "Sci-Fi"}
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "Title": {"S": "Black Widow"},
+            "ReleaseDate": {"S": "2021-07-09"},
+            "Rating": {"N": "6.8"},
+            "Genre": {"S": "Action"}
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "Title": {"S": "Shang-Chi and the Legend of the Ten Rings"},
+            "ReleaseDate": {"S": "2021-09-03"},
+            "Rating": {"N": "7.9"},
+            "Genre": {"S": "Action"}
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "Title": {"S": "Free Guy"},
+            "ReleaseDate": {"S": "2021-08-13"},
+            "Rating": {"N": "7.2"},
+            "Genre": {"S": "Comedy"}
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "Title": {"S": "Jungle Cruise"},
+            "ReleaseDate": {"S": "2021-07-30"},
+            "Rating": {"N": "6.6"},
+            "Genre": {"S": "Adventure"}
+          }
+        }
+      }
+    ]
+  }
+  
