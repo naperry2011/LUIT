@@ -6,6 +6,6 @@ username = input("What is your name? ")
 department = input("What department do you work for? ")
 
 if department in department_names:
-    print(f"Welcome {username} your {department} department is allowed to use this function. How can we be of assistance? ")
+    answer = input(f"Welcome {username} your {department} department is allowed to use this function. How can we be of assistance? ")
 else:
     print(f"Sorry {username} your {department} department is not allowed to use this function, have a great day.")
