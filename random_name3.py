@@ -27,3 +27,5 @@ if department in department_names:
         print(f"Okay {username}, no unique name generated. Have a great day!")
 else:
     print(f"Sorry {username} your {department} department is not allowed to use this function, have a great day.")
+    
+
