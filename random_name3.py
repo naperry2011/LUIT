@@ -1,4 +1,5 @@
 import random 
+import uuid
 
 # We are going to create a python script that generates unique names for the follow departments. If the user isn't apart of these departments they will not be allowed to move forward.
 
